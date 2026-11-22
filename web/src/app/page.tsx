@@ -9,9 +9,7 @@ export default function Home() {
           <h1 className="text-xl font-black tracking-tight text-white">
             Safe<span className="text-orange-400">Cell</span>
           </h1>
-          <a href="https://www.savewaveai.com" className="text-xs text-slate-400 underline-offset-2 hover:underline">
-            www.savewaveai.com
-          </a>
+          <p className="text-xs text-slate-400">배터리 열폭주 조기경보</p>
         </div>
         <InstallButton />
       </header>
